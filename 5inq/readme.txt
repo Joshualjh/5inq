@@ -6,4 +6,11 @@ yonkim
 i'm fine thank you
 holllllly
 
-제대로된 수정과를 하겠습니다.
+<<<<<<< HEAD
+제대로된 수정과를 먹겠습니다.
+=======
+제대로된 수정을 하겠습니다.
+
+
+linux siru siru
+>>>>>>> 0770dec81b9c992eab73e3393b6d758b2ba13c06
