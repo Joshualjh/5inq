@@ -6,4 +6,4 @@ yonkim
 i'm fine thank you
 holllllly
 
-제대로된 수정을 하겠습니다.
+제대로된 수정과를 하겠습니다.
