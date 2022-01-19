@@ -7,9 +7,10 @@ i'm fine thank you
 holllllly
 
 <<<<<<< HEAD
-제대로된 수정과를 먹겠습니다.
+제대로된 수정과를 먹겠습니다.<<ohmygod o0o
 =======
 제대로된 수정을 하겠습니다.
+
 
 
 linux siru siru
