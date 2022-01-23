@@ -5,11 +5,11 @@ const mysql = require("mysql");   // mysql 모듈 require
 // 커넥션 연결
 let client = mysql.createConnection({
   user: "root",
-  password: "root",
+  password: "5inQdb1234!",
   database: "5inqdb"
 })
 
-router.get('/create', function(req, res, next) {
+router.get('/create', functddion(req, res, next) {
   client.query("SELECT * FROM products;", function(err, result, fields){
     if(err){
       console.log(err);
